@@ -1,2 +1,2 @@
-# projeto-scrum-dio-framework-scrum
-Preenchimento do template no Miro com o Framework SCRUM
+# Link para o projeto no Miro
+https://miro.com/app/board/uXjVPjEwpWM=/?share_link_id=812295268793
